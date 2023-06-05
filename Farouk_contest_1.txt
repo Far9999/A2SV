@@ -1,0 +1,18 @@
+﻿Performance Analysis
+
+Contest #1
+
+THINGS TO IMPROVE
+1. I had technical issues during the contest due to an unprepared environment.
+* Fix: Set up and check everything before the contest. 
+2. Notifications from my phone caused me to lose focus during the contest.
+* Fix: Avoid distraction during the contest. 
+3. I rushed to solve questions as quickly as possible.
+* Fix: Take time to relax and get the right mindset without worrying about who solves a question first. After all, it’s a learning process.
+4. I gave up on questions which took too long to solve.
+* Fix: Till the time is over, never give up. Continue working !
+
+THINGS I DID GOOD
+1. Reviewed edge cases before submitting.
+2. Worked out the math before writing code.
+3. Utilized some libraries for faster working of problems.
